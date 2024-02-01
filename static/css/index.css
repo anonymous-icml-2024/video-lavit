@@ -114,7 +114,7 @@ body {
   overflow: hidden;
 }
 
-.results-carousel .item {
+.results-carousel .carousel-item {
   margin: 5px;
   overflow: hidden;
   border: 1px solid #bbb;
